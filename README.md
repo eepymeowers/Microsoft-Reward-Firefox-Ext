@@ -53,4 +53,4 @@ The colour of the badge changes depending on your daily reward progress or the s
 
 
 # Credit
-## tmxkn1 - the Chrome extension
+### tmxkn1 - the Chrome extension
