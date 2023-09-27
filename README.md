@@ -10,6 +10,8 @@ This extension will not clear any promotional link or quiz quests and this featu
 
 Use at your own risk. I do not take responsibility for any consequence caused by this extension.
 
+### Note: This is a port of a Chrome extension originally made by tmxkn1.
+
 # Install from GitHub
 
 1. Head to [Release](https://github.com/eepymeowers/Microsoft-Reward-Firefox-Ext/releases) and download the XPI for the version you want.
@@ -48,3 +50,7 @@ The colour of the badge changes depending on your daily reward progress or the s
 ![yellowLogo](https://github.com/eepymeowers/Microsoft-Reward-Firefox-Ext/blob/master/src/img/warn@1x.png?raw=true) - Attention! You still have some points to earn through quests.
 
 ![redLogo](https://github.com/eepymeowers/Microsoft-Reward-Firefox-Ext/blob/master/src/img/err@1x.png?raw=true) - Oops... an error occurred - Check out [Troubleshooting](TROUBLESHOOTING.md).
+
+
+# Credit
+## tmxkn1 - the Chrome extension
